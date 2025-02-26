@@ -13,7 +13,7 @@ Towards Becoming the Most Valuable Developer
 💪🏼 Tools
 
 
-<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=Black"/><img src="https://img.shields.io/badge/Visual Studio-7B00FF?style=flat-square&logo=Visual Studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=Black"/><img src="https://img.shields.io/badge/Visual Studio-7B00FF?style=flat-square&logo=Visual Studio&logoColor=white"/>
 
 
 🐱 About Me
