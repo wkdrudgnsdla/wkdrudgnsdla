@@ -7,7 +7,7 @@ Towards Becoming the Most Valuable Developer
 🛠️ Stacks
 
 
-<img src="https://img.shields.io/badge/Csharp-000000?style=flat-square&logo=C#&logoColor=white"/>
+<img src="https://img.shields.io/badge/Csharp-7B00F0?style=flat-square&logo=C#&logoColor=white"/>
 
 
 💪🏼 Tools
