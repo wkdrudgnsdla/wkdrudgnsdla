@@ -1,6 +1,6 @@
 ## GameDeveloper 
 
-# <img src="https://img.shields.io/badge/Unity-#FFFFFF?style=flat-square&logo=Unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity-#FFFFFF?style=flat-square&logo=Unity&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
 <!--
