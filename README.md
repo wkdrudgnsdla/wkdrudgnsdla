@@ -1,4 +1,4 @@
-# Hi, I’m GyeongHum Jang 👋
+# Hi, I’m GyeongHun Jang 👋
 
 **Game Client Developer Who Loves Communication**
 
