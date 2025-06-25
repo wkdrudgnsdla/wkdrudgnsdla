@@ -23,10 +23,9 @@ My goal is to create games that bring joy to people.
 
 ### 📊 GitHub Stats
 
-```md
-![GyeongHun’s GitHub stats](https://github-readme-stats.vercel.app/api?username=wkdrudgnsdla&show_icons=true&theme=dark&count_private=true)
-
+![GyeongHun’s GitHub stats](https://github-readme-stats.vercel.app/api?username=wkrdugndsld&show_icons=true&theme=dark&count_private=true)
 
 ### 📫 Contact
 
 - ✉️ Email: [s24032@gsm.hs.kr](mailto:s24032@gsm.hs.kr)
+
