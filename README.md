@@ -22,7 +22,9 @@ My goal is to create games that bring joy to people.
 
 
 ### 📊 GitHub Stats
-![GyeongHun's GitHub stats](https://github-readme-stats.vercel.app/api?username=wkdrudgnsdla&hide=stars,contribs&count_private=true)()
+![GyeongHun's GitHub stats](https://github-readme-stats.vercel.app/api?username=wkdrudgnsdla&hide=stars,contribs&count_private=true)
+
+
 
 
 
